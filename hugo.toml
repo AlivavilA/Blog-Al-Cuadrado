@@ -1,4 +1,4 @@
-baseURL = 'http://blog.al2.org/'
+baseURL = 'http://blog.aliva.mx/'
 languageCode = 'es-MX'
-title = 'Blog AL-CUADRADO'
+title = 'Blog Ale Avila'
 theme = 'ananke'

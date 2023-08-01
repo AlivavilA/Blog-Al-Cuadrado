@@ -1,7 +1,6 @@
 ---
 title: "Mi Primer Post"
 date: 2023-07-31T16:11:38-06:00
-draft: true
 ---
 ## Introduccion
 
