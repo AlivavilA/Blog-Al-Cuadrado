@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Ale Avila</title>
-    <link>http://blog.aliva.mx/</link>
-    <description>Recent content on Blog Ale Avila</description>
+    <title>Posts on Blog Ale Avila</title>
+    <link>http://blog.aliva.mx/posts/</link>
+    <description>Recent content in Posts on Blog Ale Avila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-MX</language>
-    <lastBuildDate>Mon, 31 Jul 2023 16:11:38 -0600</lastBuildDate><atom:link href="http://blog.aliva.mx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 16:11:38 -0600</lastBuildDate><atom:link href="http://blog.aliva.mx/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Primer Post</title>
       <link>http://blog.aliva.mx/posts/mi-primer-post/</link>
